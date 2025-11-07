@@ -2,10 +2,10 @@
 
 ### Average latency per test case:
 
-fake_1: 0.0683 seconds,
-fake_2: 0.0583 seconds,
-real_1: 0.0589 seconds,
-real_2: 0.0599 seconds
+fake_1: 0.0584 seconds,
+fake_2: 0.0589 seconds,
+real_1: 0.0567 seconds,
+real_2: 0.0579 seconds
 
 ### Box Plot:
 
